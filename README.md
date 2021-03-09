@@ -16,7 +16,7 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 - 🛠 &nbsp; Je travaille actuellement sur du Java (Processing et programmation répartie), du Python (enfin), etc...
 - 🚀 &nbsp; J'apprends actuellement Processing
-- 👾 &nbsp; Mes GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
+- 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
 - 👨🏻‍💻&nbsp; Fun fact: Je ne suis pas VRAIMENT 🏴 Pirate pro. 🏴, c'est une private joke :(
 - 📫 &nbsp; Me contacter pour quoi que ce soit d'autre : agerard57@protonmail.com
