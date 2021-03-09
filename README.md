@@ -43,7 +43,7 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 </details>
 
 <details>	
-  <summary><b>☄️ Mes Straks GitHub</b></summary>
+  <summary><b>☄️ Mes Streaks GitHub</b></summary>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agerard57&hide_border=true" />
 </details>
