@@ -14,8 +14,8 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 ### Plus d'infos sur moi:
 
-- 🛠 &nbsp; Je travaille actuellement sur l'apprentissage du LaTeX, du Java (Processing), du Python (enfin), etc...
-- 🚀 &nbsp; J'apprends actuellement Processing
+- 🛠 &nbsp; Je travaille actuellement sur mon stage !
+- 🚀 &nbsp; J'apprends actuellement le LaTeX
 - 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
 - 👨🏻‍💻&nbsp; Fun fact: Je ne suis pas VRAIMENT 🏴 Pirate pro. 🏴, c'est une private joke :(
