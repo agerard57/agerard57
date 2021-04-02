@@ -14,7 +14,7 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 ### Plus d'infos sur moi:
 
-- 🛠 &nbsp; Je travaille actuellement sur du Java (Processing et programmation répartie), du Python (enfin), etc...
+- 🛠 &nbsp; Je travaille actuellement sur l'apprentissage du LaTeX, du Java (Processing), du Python (enfin), etc...
 - 🚀 &nbsp; J'apprends actuellement Processing
 - 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
