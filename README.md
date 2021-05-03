@@ -15,7 +15,8 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 ### Plus d'infos sur moi:
 
 - 🛠 &nbsp; Je travaille actuellement sur mon stage !
-- 🚀 &nbsp; J'(ré)apprends le python en créant sur un bot discord
+- 🚀 &nbsp; J'(ré)apprends le python en créant sur un bot discord (et je travaille sur un gros projet ;) )
+- 👨‍🏫 &nbsp; Je fais gratuitement des cours d'HTML/CSS ainsi que de GIT pendant mon temps libre
 - 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
 - 👨🏻‍💻&nbsp; Fun fact: Je ne suis pas VRAIMENT 🏴 Pirate pro. 🏴, c'est une private joke :(
