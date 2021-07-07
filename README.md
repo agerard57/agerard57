@@ -4,7 +4,7 @@
 ### Merci d'être passé sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=agerard57&label=Visiteurs+:)
 
 Je suis en pleine session d'études afin d'obtenir, je l'espère, un mastère en informatique 🎓 ! 
-Pour le moment, je suis à l'IUT du Saulcy 🏛, à Metz, en deuxième année de DUT Informatique.
+Pour le moment, je suis à MNS 🏛, à Metz, en première année de Licence Informatique Full-Stack.
 J'essaye d'apprendre plein de choses sur l'informatique afin d'acquérir une bonne polyvalence et pour tester tout ce que ce dernier a à proposer.
 Même si je suis encore débutant, je n'abandonne pas pour autant devant le moindre problème, et (armé la plupart du temps de ✨Google✨) je relève tous les défis qui se présentent.🤓
 
