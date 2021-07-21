@@ -14,7 +14,7 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 ### Plus d'infos sur moi:
 
-- 🛠 &nbsp; Je travaille actuellement sur mon stage !
+- 🛠 &nbsp; Je travaille actuellement sur un jeu vidéo !
 - 🚀 &nbsp; J'(ré)apprends le python en créant sur un bot discord (et je travaille sur un gros projet ;) )
 - 👨‍🏫 &nbsp; Je fais gratuitement des cours d'HTML/CSS ainsi que de GIT pendant mon temps libre
 - 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
