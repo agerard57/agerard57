@@ -25,7 +25,8 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 ### ENCORE PLUS d'infos sur moi (bonus):
 
-- 👨🏻‍💼 &nbsp; Je suis actuellement président d'une association étudiante (AEDI).
+- 👨🏻‍💼 &nbsp; <s>Je suis actuellement président d'une association étudiante (AEDI).</s>
+> EDIT: plus maintenant -_-
 - 💻 &nbsp; Ma config PC : <br />
   - Carte mère : ASUS Prime B550-Plus Gaming Motherboard Socket AM4
   - CPU : AMD Ryzen 7 3800x 4,5GHz AM4 36MB Cache Wraith Prism
