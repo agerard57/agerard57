@@ -4,9 +4,8 @@
 ### Merci d'être passé sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=agerard57&label=Visiteurs+:)
 
 Je suis en pleine session d'études afin d'obtenir, je l'espère, un mastère en informatique 🎓 ! 
-Pour le moment, je suis à MNS 🏛, à Metz, en première année de Licence Informatique Full-Stack.
-J'essaye d'apprendre plein de choses sur l'informatique afin d'acquérir une bonne polyvalence et pour tester tout ce que ce dernier a à proposer.
-Même si je suis encore débutant, je n'abandonne pas pour autant devant le moindre problème, et (armé la plupart du temps de ✨Google✨) je relève tous les défis qui se présentent.🤓
+Si j'essaye d'apprendre plein de choses sur l'informatique, c'est afin d'acquérir une bonne polyvalence et pour tester tout ce que ce dernier a à proposer.
+Même si je me considère encore débutant, je n'abandonne pas pour autant devant le moindre problème, et (armé la plupart du temps de ✨documentations✨) je relève tous les défis qui se présentent.🤓
 
 [![](https://gitwar.herokuapp.com/badge?username=agerard57&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -14,9 +13,9 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
 
 ### Plus d'infos sur moi:
 
-- 🛠 &nbsp; Je travaille actuellement sur un jeu vidéo !
-- 🚀 &nbsp; J'(ré)apprends le python en créant sur un bot discord (et je travaille sur un gros projet ;) )
-- 👨‍🏫 &nbsp; Je fais gratuitement des cours d'HTML/CSS ainsi que de GIT pendant mon temps libre
+- 🛠 &nbsp; Je travaille actuellement sur une plateforme de covoiturage !
+- 🚀 &nbsp; Je vais me mettre très prochainement au Rust ;)
+- 👨‍🏫 &nbsp; Je fais gratuitement des cours d'HTML/CSS/JS/TS ainsi que de GIT pendant mon temps libre
 - 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
 - 👨🏻‍💻&nbsp; Fun fact: Je ne suis pas VRAIMENT 🏴 Pirate pro. 🏴, c'est une private joke :(
@@ -32,7 +31,7 @@ Même si je suis encore débutant, je n'abandonne pas pour autant devant le moin
   - CPU : AMD Ryzen 7 3800x 4,5GHz AM4 36MB Cache Wraith Prism
   - Carte graphique : GIGABYTE GeForce RTX 2070 Super Gaming OC 8G
   - Ram : Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4 3200 MHz
-  - OS : Windows 10, Debian, KDE neon
+  - OS : Windows 11, Debian / KDE neon
 
 
 ### Pour les fanas de statistiques:
