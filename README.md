@@ -3,8 +3,8 @@
 
 ### Merci d'être passé sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=agerard57&label=Visiteurs+:)
 
-Je suis en pleine session d'études afin d'obtenir, je l'espère, un mastère en informatique 🎓 ! 
-Si j'essaye d'apprendre plein de choses sur l'informatique, c'est afin d'acquérir une bonne polyvalence et pour tester tout ce que ce dernier a à proposer.
+Je suis en dernière ligne droite afin d'obtenir un mastère en informatique 🎓 ! 
+Si j'essaye d'apprendre plein de choses sur l'informatique, c'est afin d'acquérir une bonne polyvalence et pour tester tout ce que ce domaine a à proposer.
 Même si je me considère encore débutant, je n'abandonne pas pour autant devant le moindre problème, et (armé la plupart du temps de ✨documentations✨) je relève tous les défis qui se présentent.🤓
 
 [![](https://gitwar.herokuapp.com/badge?username=agerard57&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
@@ -13,10 +13,10 @@ Même si je me considère encore débutant, je n'abandonne pas pour autant devan
 
 ### Plus d'infos sur moi:
 
-- 🛠 &nbsp; Je travaille actuellement sur une plateforme de covoiturage !
-- 🚀 &nbsp; Je vais me mettre très prochainement au Rust ;)
-- 👨‍🏫 &nbsp; Je fais gratuitement des cours d'HTML/CSS/JS/TS ainsi que de GIT pendant mon temps libre
-- 👾 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
+- 🛠 &nbsp; Je travaille actuellement sur une plateforme SaaS d'e-commerce !
+- 👾 &nbsp; Je travaille aussi sur un jeu vidéo pendant mon temps libre ;)
+- 👨‍🏫 &nbsp; Je fais de temps en temps des cours gratuits d'HTML/CSS/JS/TS ainsi que de GIT
+- 🚀 &nbsp; Mes repos GitHub sont disponibles [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Envoyez-moi ce que vous voulez [ici](https://github.com/agerard57/agerard57/issues/new)! <br /> Je suis toujours heureux de vous répondre :) 
 - 👨🏻‍💻&nbsp; Fun fact: Je ne suis pas VRAIMENT 🏴 Pirate pro. 🏴, c'est une private joke :(
 - 📫 &nbsp; Me contacter pour quoi que ce soit d'autre : [githubprofile@agerard.dev](mailto:githubprofile@agerard.dev)
@@ -24,14 +24,13 @@ Même si je me considère encore débutant, je n'abandonne pas pour autant devan
 
 ### ENCORE PLUS d'infos sur moi (bonus):
 
-- 👨🏻‍💼 &nbsp; <s>Je suis actuellement président d'une association étudiante (AEDI).</s>
-> EDIT: plus maintenant -_-
+- 👨🏻‍💼 &nbsp; Je suis actuellement président d'une association étudiante (E-Boo).
 - 💻 &nbsp; Ma config PC : <br />
   - Carte mère : ASUS Prime B550-Plus Gaming Motherboard Socket AM4
   - CPU : AMD Ryzen 7 3800x 4,5GHz AM4 36MB Cache Wraith Prism
   - Carte graphique : GIGABYTE GeForce RTX 2070 Super Gaming OC 8G
   - Ram : Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4 3200 MHz
-  - OS : Windows 11, Debian / KDE neon
+  - OS : Debian / KDE neon, Windows 11
 
 
 ### Pour les fanas de statistiques:
