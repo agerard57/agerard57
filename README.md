@@ -70,7 +70,7 @@ Même si je me considère encore en apprentissage, j'aborde chaque nouveau défi
 - 🚀 &nbsp; Découvrez mes dépôts GitHub [ici](https://github.com/agerard57?tab=repositories).
 - 💬 &nbsp; Laissez-moi un message [ici](https://github.com/agerard57/agerard57/issues/new)! Je répondrai avec plaisir :)
 - 📫 &nbsp; Me contacter : [githubprofile@agerard.dev](mailto:githubprofile@agerard.dev)
-- 📝 &nbsp; Mon [CV FR](https://github.com/agerard57/agerard57.github.io/blob/master/medias/cv.pdf) est disponible.
+- 📝 &nbsp; Mon [CV FR](https://github.com/agerard57/agerard57.github.io/blob/master/medias/cv.pdf) est disponible ici.
 
 ### ENCORE PLUS d'infos sur moi (bonus):
 
